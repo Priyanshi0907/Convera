@@ -12,10 +12,7 @@ develop-eggs/
 dist/
 downloads/
 eggs/
-.eggs/
-lib/
-lib64/
-parts/
+# Virtual environment folders are already ignored above (venv/, backend/venv/, env/)
 sdist/
 var/
 wheels/
